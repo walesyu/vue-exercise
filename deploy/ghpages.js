@@ -3,7 +3,7 @@ const ghpages = require('gh-pages');
 
 const options = {
   branch: 'gh-pages',
-  repo: 'https://github.com/andrew781026/F2E_Card.git' // project github repo
+  repo: 'https://github.com/walesyu/vue-exercise.git' // project github repo
 };
 
 const callback = err => {
